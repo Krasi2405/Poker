@@ -1,0 +1,6 @@
+D:\C# Projects\Poker\Poker\Poker\bin\Release\Poker.exe.config
+D:\C# Projects\Poker\Poker\Poker\bin\Release\Poker.exe
+D:\C# Projects\Poker\Poker\Poker\bin\Release\Poker.pdb
+D:\C# Projects\Poker\Poker\Poker\obj\Release\Poker.exe
+D:\C# Projects\Poker\Poker\Poker\obj\Release\Poker.pdb
+D:\C# Projects\Poker\Poker\Poker\obj\Release\Poker.csprojResolveAssemblyReference.cache
